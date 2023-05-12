@@ -1,0 +1,2 @@
+# Deskripsi
+Repository ini berisikan project submission Dicoding yaitu membuat sebuah API untuk aplikasi bookshelf. Jika di persyaratan submissionnya harus menggunakan framework Hapi, saya mencoba untuk membuatnya menggunakan framework Express. Ini hanya sekedar latihan saja dan tidak dijadikan untuk submission karena jika saya submit project ini maka sudah dipastikan saya gagal karena tidak memakai framework Hapi, hehe.
